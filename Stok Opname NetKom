@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NetKom & Penumbra Links</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #0099cc, #003366);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .container {
+      max-width: 400px;
+      margin: auto;
+      background: rgba(255, 255, 255, 0.1);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    h1 {
+      font-size: 22px;
+      margin-bottom: 15px;
+      color: #fff;
+    }
+    a {
+      display: block;
+      background: white;
+      color: #003366;
+      text-decoration: none;
+      margin: 12px 0;
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: all 0.3s;
+    }
+    a:hover {
+      background: #0099cc;
+      color: white;
+      transform: scale(1.05);
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 12px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📊 NetKom & Penumbra Links</h1>
+    <a href="https://docs.google.com/spreadsheets/d/1wyhxhbe23Tg5qGrVAWzwMWPZUCHWcT-qqxuj1egTlYY/edit?usp=sharing" target="_blank">
+      🧾 Stok Opname NetKom
+    </a>
+    <a href="https://docs.google.com/spreadsheets/d/1J_6QtegCteUXMHitHgTcmWFGXBwAxlODHXiAql1gCTM/edit?usp=sharing" target="_blank">
+      📘 RAB Operasional Penumbra
+    </a>
+    <div class="footer">Made with 💙 by NetKom Bali</div>
+  </div>
+</body>
+</html>
